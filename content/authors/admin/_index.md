@@ -1,13 +1,10 @@
 ---
 title: Shirui Zhou
-role: PhD student
+role: A Noob in Transportation Science
 avatar_filename: citations.jpg
 bio: My research interests include traffic flow theory and intelligent
   transportation system.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,4 +33,4 @@ email: shiruizhou@tju.edu.cn
 superuser: true
 highlight_name: true
 ---
-Shirui Zhou is now a PhD student of transportation system engineering at the Laboratory of Computation and Analytics of Complex Management Systems (CACMS) in Tianjin University. His research interests include  traffic flow theory and intelligent transportation system.
+Shirui Zhou is now a PhD student of transportation system engineering at the Laboratory of Computation and Analytics of Complex Management Systems (CACMS) of Tianjin University. His research interests include  traffic flow theory and intelligent transportation system.
