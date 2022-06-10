@@ -1,7 +1,7 @@
 ---
 title: Shirui Zhou
 role: A Noob in Transportation Science
-avatar_filename: citations.jpg
+avatar_filename: 2.png
 bio: My research interests include traffic flow theory and intelligent
   transportation system.
 interests: []
